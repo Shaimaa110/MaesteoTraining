@@ -1,0 +1,46 @@
+{
+  "Sequence": null,
+  "Name": "LeaveRequestAssets",
+  "Code": null,
+  "Attachments": null,
+  "Files": [
+    {
+      "Id": "affea198-8914-40d0-8b80-1815edfe997c",
+      "Name": "OIP.jpg",
+      "File": null
+    },
+    {
+      "Id": "2f7a5036-0fb8-4ea0-bd5a-696e173d93dc",
+      "Name": "online-leave-request-process-in-3d-vector.jpg",
+      "File": null
+    },
+    {
+      "Id": "65e171e3-e709-43be-b8b6-d5fdd4e46fc7",
+      "Name": "R (1).png",
+      "File": null
+    },
+    {
+      "Id": "adf2f735-d0ea-4cc2-94fa-4b21ccc27b72",
+      "Name": "Annual-Leave-Request-From-2.png",
+      "File": null
+    },
+    {
+      "Id": "79e585bf-1e04-4519-baa4-850a16d7418d",
+      "Name": "Medical-Leave-Application-Template-2.jpg",
+      "File": null
+    },
+    {
+      "Id": "1aa7e7cb-41b6-49c2-ac49-a06d34a6267f",
+      "Name": "R.png",
+      "File": null
+    }
+  ],
+  "CreatedBy": "42",
+  "CreationDate": "2024-12-17T11:41:52.2265906Z",
+  "ModifiedBy": "42",
+  "ModificationDate": "2024-12-17T11:43:40.3475598Z",
+  "DeletedBy": null,
+  "DeletionDate": null,
+  "Id": "049b6fa0-378f-47e5-9604-81e78a567533",
+  "MaestroBlocksEntityState": 0
+}

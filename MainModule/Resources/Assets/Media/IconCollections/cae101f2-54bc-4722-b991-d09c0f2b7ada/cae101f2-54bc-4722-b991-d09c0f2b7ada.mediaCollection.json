@@ -1,0 +1,30 @@
+{
+  "Name": "LeaveRequestIcons",
+  "Code": null,
+  "Attachments": null,
+  "Files": [
+    {
+      "Id": "fb9aec8f-b5c8-4f79-b9e6-74bbf50dffb4",
+      "Name": "OIP (1).jpg",
+      "File": null
+    },
+    {
+      "Id": "fe4586a5-8313-4a57-8050-19e452a8fe3d",
+      "Name": "OIP (2).jpg",
+      "File": null
+    },
+    {
+      "Id": "2a8323a0-22a2-45cd-ad25-a982d28033cc",
+      "Name": "R (2).png",
+      "File": null
+    }
+  ],
+  "CreatedBy": "42",
+  "CreationDate": "2024-12-17T11:46:36.8312579Z",
+  "ModifiedBy": "42",
+  "ModificationDate": "2024-12-17T11:46:47.3010253Z",
+  "DeletedBy": null,
+  "DeletionDate": null,
+  "Id": "cae101f2-54bc-4722-b991-d09c0f2b7ada",
+  "MaestroBlocksEntityState": 0
+}
