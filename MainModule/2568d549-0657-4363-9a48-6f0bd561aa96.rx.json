@@ -1,0 +1,18 @@
+{
+  "Expression": {
+    "dataTypeId": 6,
+    "EditorType": 2,
+    "Value": "^(07)(7|8|9)(\\d{7})$"
+  },
+  "Description": null,
+  "CreatedBy": null,
+  "CreationDate": "2024-12-18T11:57:18.2673948Z",
+  "ModifiedBy": 42,
+  "ModificationDate": "2024-12-18T12:00:53.0488859Z",
+  "DeletedBy": null,
+  "DeletionDate": null,
+  "MetaData": {},
+  "Id": "2568d549-0657-4363-9a48-6f0bd561aa96",
+  "Code": null,
+  "Name": "Phone_RegEx"
+}

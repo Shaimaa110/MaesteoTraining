@@ -1,0 +1,25 @@
+{
+  "Title": "Approved Request By Manager",
+  "NotificationTypeId": 0,
+  "IsPublished": true,
+  "TemplateContents": [
+    {
+      "LanguageId": 1,
+      "TemplateId": "00000000-0000-0000-0000-000000000000",
+      "Body": "<p>Dear ##Requester##</p><p><br></p><p>Your request approved in ##date##.</p><p><br></p><p>Regards.</p>",
+      "Id": "4f332b68-4960-4a1d-9633-429a3095c994",
+      "Code": null,
+      "MaestroBlocksEntityState": 0
+    }
+  ],
+  "CreatedBy": null,
+  "CreationDate": "2024-12-18T11:26:53.6125853Z",
+  "ModifiedBy": 42,
+  "ModificationDate": "2024-12-18T11:55:08.9518572Z",
+  "DeletedBy": null,
+  "DeletionDate": null,
+  "MetaData": {},
+  "Id": "becb35cb-72ac-48a8-bdc4-9647998e22e5",
+  "Code": "",
+  "Name": "DynamicApprovedRequestByManager_NotificationTemplate"
+}

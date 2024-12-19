@@ -1,0 +1,15 @@
+{
+  "Direction": false,
+  "IsDisabled": false,
+  "IsDefault": false,
+  "CreatedBy": 42,
+  "CreationDate": "2024-12-17T12:48:22.3244927Z",
+  "ModifiedBy": null,
+  "ModificationDate": null,
+  "DeletedBy": null,
+  "DeletionDate": null,
+  "MetaData": {},
+  "Id": "48eb65f2-f98f-4623-85ab-494183141d73",
+  "Code": "zh",
+  "Name": "Chinese"
+}

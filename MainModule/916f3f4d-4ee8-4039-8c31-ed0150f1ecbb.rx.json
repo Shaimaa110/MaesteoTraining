@@ -1,0 +1,18 @@
+{
+  "Expression": {
+    "dataTypeId": 6,
+    "EditorType": 2,
+    "Value": ""
+  },
+  "Description": null,
+  "CreatedBy": 42,
+  "CreationDate": "2024-12-18T12:01:21.6434293Z",
+  "ModifiedBy": null,
+  "ModificationDate": null,
+  "DeletedBy": null,
+  "DeletionDate": null,
+  "MetaData": {},
+  "Id": "916f3f4d-4ee8-4039-8c31-ed0150f1ecbb",
+  "Code": null,
+  "Name": "Date_RegEx"
+}

@@ -1,0 +1,18 @@
+{
+  "Expression": {
+    "dataTypeId": 6,
+    "EditorType": 2,
+    "Value": "^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}$"
+  },
+  "Description": null,
+  "CreatedBy": null,
+  "CreationDate": "2024-12-18T11:54:46.6843725Z",
+  "ModifiedBy": 42,
+  "ModificationDate": "2024-12-18T11:57:40.5500477Z",
+  "DeletedBy": null,
+  "DeletionDate": null,
+  "MetaData": {},
+  "Id": "03822a7c-c285-4ef2-931c-500f692e55af",
+  "Code": null,
+  "Name": "Email_RegEx"
+}

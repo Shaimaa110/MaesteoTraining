@@ -1,1 +1,21 @@
-[]
+[
+  {
+    "Type": 1,
+    "Key": "Email",
+    "Value": "s.salameh.ext@tahaluf.ai",
+    "Documentation": null,
+    "IsSystemKey": false,
+    "IsEncrypted": false,
+    "EnumCode": null,
+    "CreatedBy": 42,
+    "CreationDate": "2024-12-18T12:30:13.6575665Z",
+    "ModifiedBy": null,
+    "ModificationDate": null,
+    "DeletedBy": null,
+    "DeletionDate": null,
+    "MetaData": {},
+    "Id": "014d1a52-51b4-4942-97a9-86d10e4f7d43",
+    "Code": null,
+    "Name": ""
+  }
+]

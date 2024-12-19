@@ -1,0 +1,25 @@
+{
+  "Title": "Request Approved By Event Coordinator",
+  "NotificationTypeId": 0,
+  "IsPublished": true,
+  "TemplateContents": [
+    {
+      "LanguageId": 1,
+      "TemplateId": "00000000-0000-0000-0000-000000000000",
+      "Body": "<p>Dear Requester,</p><p><br></p><p>Your Request is approved by event coordinator.</p><p><br></p><p>Regards.</p>",
+      "Id": "b9628046-0f88-497c-9c1b-04aacf8502a1",
+      "Code": null,
+      "MaestroBlocksEntityState": 0
+    }
+  ],
+  "CreatedBy": null,
+  "CreationDate": "2024-12-18T10:56:42.1031064Z",
+  "ModifiedBy": 42,
+  "ModificationDate": "2024-12-18T11:38:32.5397643Z",
+  "DeletedBy": null,
+  "DeletionDate": null,
+  "MetaData": {},
+  "Id": "05742f72-5b16-4e49-adb4-20fd635ea907",
+  "Code": "",
+  "Name": "StaticApprovedRequestByEventCoordinator_NotificationTemplate"
+}
